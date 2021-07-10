@@ -9,7 +9,7 @@ h1{
 }
 h2{
     font-size: 30px;
-    color: rgb(98, 3, 187);
+    color: gray;
 }
 h3{
     font-weight: 900;
@@ -78,19 +78,13 @@ h3{
 .text-position{
     text-align: center;
     padding-top: 5%;
+    background-color: rgb(15, 11, 31);
 
 }
-.back-banner{
-    background-image: url(images/shapes/8.png);
-    background-repeat: no-repeat;
-    margin: 0px;
-    
+.colour{
+    color: rgb(192, 142, 3);
+}
+.set-up{
+    padding-top: 30px;
+}
 
-}
-.look{
-    color: cyan;
-}
-.top-gap{
-    padding-top: 50px;
-    margin: 0px;
-}
