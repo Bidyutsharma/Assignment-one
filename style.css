@@ -14,6 +14,16 @@ h2{
 h3{
     font-weight: 900;
 }
+.welcome{
+  
+    width: 30%;
+    padding-left: 35%;
+    font-family: cursive;
+    }
+
+.apex-color{
+    color: rgba(66, 0, 66, 0.952);
+}
 .color{
     color: orange;
 }
@@ -87,4 +97,3 @@ h3{
 .set-up{
     padding-top: 30px;
 }
-
