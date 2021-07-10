@@ -4,9 +4,15 @@ body{
 }
 h1{
     font-size: 50px;
+    color: gray;
+    
 }
 h2{
     font-size: 30px;
+    color: gray;
+}
+h3{
+    font-weight: 900;
 }
 .color{
     color: orange;
@@ -38,4 +44,37 @@ h2{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     margin: 0px;
+}
+.text-style{
+    text-align: center;
+    padding-top: 5%;
+}
+.text-width{
+    width: 40%;
+    padding-left: 30%;  
+    
+
+}
+.experience-item{
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    padding-left: 10px;
+    margin-left: 5%;
+   
+    
+}
+
+
+.image-width img{
+    width: 400px;
+    padding-top: 10px;
+    
+    border-radius: 20px 20px;
+ 
+   
+    
+}
+.image-width{
+   
 }
